@@ -6,7 +6,7 @@ php-mcrypt - Library
 Use Composer Install
 ======
 ```shell
-composer require Harlan-zh/php-mcrypt
+composer require harlan-zh/php-mcrypt
 ```
 
 Usage:
