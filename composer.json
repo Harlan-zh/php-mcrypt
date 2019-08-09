@@ -3,7 +3,6 @@
   "description": "php-3des library",
   "type": "library",
   "homepage": "https://github.com/Harlan-zh/php-mcrypt",
-  "license": "MIT",
   "authors": [
     {
       "name": "Harhan-zh",
