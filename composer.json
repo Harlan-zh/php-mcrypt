@@ -1,11 +1,11 @@
 {
-  "name": "Harhan-zh/php-mcrypt",
+  "name": "harhan-zh/php-mcrypt",
   "description": "php-3des library",
   "type": "library",
   "homepage": "https://github.com/Harlan-zh/php-mcrypt",
   "authors": [
     {
-      "name": "Harhan-zh",
+      "name": "Harlan-zh",
       "homepage": "https://github.com/Harlan-zh"
     }
   ],
