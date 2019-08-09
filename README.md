@@ -48,8 +48,8 @@ echo "原文：${str}" . PHP_EOL;     // 需要加密的字符串
 echo "加密：${encrypt}" . PHP_EOL; // 加密结果   
 echo "解密：${decrypt}";           // 将加密字符转化明文
 
-result：
-    '原文：ILoveMe'
-    '加密：wMIpQDwfDXI='
-    '解密：ILoveMe'
+//result：
+//    '原文：ILoveMe'
+//    '加密：wMIpQDwfDXI='
+//    '解密：ILoveMe'
 ```
